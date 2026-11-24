@@ -2,6 +2,8 @@
 
 SorTheDrink is a Unity AR app for exploring the nutrition information on packaged drinks. Point a camera at a supported beverage label to see its information card, or use the searchable library to look up a drink by name and category. The catalog contains 11 beverages. Energy, sugar, and sodium values are recorded per whole bottle or can.
 
+[Demo Video](https://youtu.be/jdphixZWKNU?si=zIp0IB2zwijLXqH0)
+
 ## Open the project
 
 1. Install **Unity 6000.0.73f1** through Unity Hub. For an Android build, include Android Build Support, the Android SDK and NDK tools, and OpenJDK.
