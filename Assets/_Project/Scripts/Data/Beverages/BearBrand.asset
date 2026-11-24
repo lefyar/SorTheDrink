@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c1a5746af8a8d5428d6862280f3e56b, type: 3}
+  m_Name: BearBrand
+  m_EditorClassIdentifier: 
+  id: BearBrand
+  displayName: Bear Brand 189ml
+  brand: Nutrition Information
+  targetName: Beard_Brand
+  category: 5
+  volumeMl: 500
+  productImage: {fileID: 21300000, guid: 958cf10397d74ba4e809e7c07888d334, type: 3}
+  energyKcal: 200
+  sugarGram: 46
+  sodiumMg: 95
+  ingredients: SPARKELINGGGG
+  floatingCardImage: {fileID: 21300000, guid: 7f2f7e97824581044bb368b25ec2fb55, type: 3}
+  sugarModelPrefab: {fileID: 3477893662408459255, guid: 931adb50cbb2d0e46a0b796c40dc7df4, type: 3}
+  description: TEBS
+  nutritionImage: {fileID: 21300000, guid: ea51a01383e3db04c8c5e10aaed49a3c, type: 3}
+  nutritionScoreImage: {fileID: 21300000, guid: 3845411cee68b5a47b9bbf889b1def9e, type: 3}
+  healthyImpactImage: {fileID: 21300000, guid: 945edb30c183a5d4b86cd8d9e767e981, type: 3}

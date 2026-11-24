@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Thai_Milk_Tea" size="0.060000 0.060000" />
+    <ImageTarget name="TehPucuk_350ml" size="0.060000 0.060000" />
+    <ImageTarget name="Sprite_Can_250ml" size="0.060000 0.060000" />
+    <ImageTarget name="Bear_Brand" size="0.060000 0.042486" />
+    <ImageTarget name="Nescafe_Cappuccino" size="0.060000 0.090000" />
+    <ImageTarget name="Golda_Coffee" size="0.060000 0.040000" />
+    <ImageTarget name="PocariSweat_500ml" size="0.060000 0.039604" />
+    <ImageTarget name="Red_Bull" size="0.060000 0.039840" />
+    <ImageTarget name="Tebs_Sparkling" size="0.060000 0.060000" />
+    <ImageTarget name="Isoplus_350ml" size="0.060000 0.134328" />
+    <ImageTarget name="CocaCola_250ml" size="0.060000 0.033073" />
+  </Tracking>
+</QCARConfig>

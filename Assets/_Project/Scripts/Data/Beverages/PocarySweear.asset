@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c1a5746af8a8d5428d6862280f3e56b, type: 3}
+  m_Name: PocarySweear
+  m_EditorClassIdentifier: Assembly-CSharp::BeverageData
+  id: PocarySweet
+  displayName: Pocari Sweat 500ml
+  brand: Nutrition Information
+  targetName: 
+  category: 5
+  volumeMl: 0
+  productImage: {fileID: 21300000, guid: 3629c9d3b57a43d49933ba91fdc120ea, type: 3}
+  energyKcal: 10
+  sugarGram: 1123
+  sodiumMg: 12312
+  ingredients: 
+  floatingCardImage: {fileID: 21300000, guid: 75bf205809e33994b89d5b769c66dd1c, type: 3}
+  sugarModelPrefab: {fileID: 0}
+  description: 
+  nutritionImage: {fileID: 21300000, guid: 6789fc97a870da84b9d7279323077ed1, type: 3}
+  nutritionScoreImage: {fileID: 21300000, guid: 2cf57107d85e8e24db1ddb6c2cf80f46, type: 3}
+  healthyImpactImage: {fileID: 21300000, guid: e60866036eaf4c64fbbc25b7dc42b327, type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c1a5746af8a8d5428d6862280f3e56b, type: 3}
+  m_Name: ThaiMilkTea
+  m_EditorClassIdentifier: Assembly-CSharp::BeverageData
+  id: ThaiMilktea
+  displayName: ThaiMilktea300ml
+  brand: Nutrition Information
+  targetName: 
+  category: 1
+  volumeMl: 300
+  productImage: {fileID: 21300000, guid: b145584c01e636c4c9974be715cdad87, type: 3}
+  energyKcal: 0
+  sugarGram: 0
+  sodiumMg: 0
+  ingredients: 
+  floatingCardImage: {fileID: 21300000, guid: ccca45295cd3c3340b7e796e419aaff4, type: 3}
+  sugarModelPrefab: {fileID: 0}
+  description: 
+  nutritionImage: {fileID: 21300000, guid: a83bfc3335630624085320039d16418e, type: 3}
+  nutritionScoreImage: {fileID: 21300000, guid: 7506411bb951cc8458015d90ae23a304, type: 3}
+  healthyImpactImage: {fileID: 21300000, guid: fec060b5271d23e469e9579b795581da, type: 3}

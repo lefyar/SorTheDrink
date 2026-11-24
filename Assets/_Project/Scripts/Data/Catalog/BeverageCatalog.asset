@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77c09a9eadb9319478aa61323021791d, type: 3}
+  m_Name: BeverageCatalog
+  m_EditorClassIdentifier: 
+  beverages:
+  - {fileID: 11400000, guid: 99b6ecdbd08396d478247cf404679294, type: 2}
+  - {fileID: 11400000, guid: d455f339c8901da4fa0bdd7d2e760fce, type: 2}
+  - {fileID: 11400000, guid: 7bf4b46483ca76c46ad56dcb6edbd098, type: 2}
+  - {fileID: 11400000, guid: 9ed071e58cc75fc4aa12237e3c0f977a, type: 2}
+  - {fileID: 11400000, guid: 34f6e7acba6ccaa4c8460e1b1b49bb07, type: 2}
+  - {fileID: 11400000, guid: 6bdebbb4dc94f7d40ac7391c6a81f500, type: 2}
+  - {fileID: 11400000, guid: 539907828f9644344b0e5b31d9849194, type: 2}
+  - {fileID: 11400000, guid: 873f011774414e943af085311bcc2006, type: 2}
+  - {fileID: 11400000, guid: 3f646ac5e588ec541b0edbc3f5bc005a, type: 2}
+  - {fileID: 11400000, guid: c244d28d2ab23c844a62305aff8287ea, type: 2}
+  - {fileID: 11400000, guid: b85ad043d2c439243bfc8b2a546ce49f, type: 2}

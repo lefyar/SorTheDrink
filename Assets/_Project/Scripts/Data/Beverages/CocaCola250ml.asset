@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c1a5746af8a8d5428d6862280f3e56b, type: 3}
+  m_Name: CocaCola250ml
+  m_EditorClassIdentifier: 
+  id: coca-cola-250
+  displayName: Coca-Cola 250ml
+  brand: Nutrition Information
+  targetName: CocaCola250ml
+  category: 0
+  volumeMl: 250
+  productImage: {fileID: 21300000, guid: ef59b51d83ab2ae438bd8853548e01fc, type: 3}
+  energyKcal: 105
+  sugarGram: 27
+  sodiumMg: 20
+  ingredients: Apa kek
+  floatingCardImage: {fileID: 21300000, guid: 1a13cd7d5c41efc4f9d41506de764027, type: 3}
+  sugarModelPrefab: {fileID: 3762390945173188465, guid: d0a547ee52001f546b434cb62551f9f9, type: 3}
+  description: SODA MENNNNN
+  nutritionImage: {fileID: 21300000, guid: 4e7f124a1c1dc704f872384dd6784ea0, type: 3}
+  nutritionScoreImage: {fileID: 21300000, guid: d5fbb348a3f9b724cbbd83dea613997b, type: 3}
+  healthyImpactImage: {fileID: 21300000, guid: 173dd5e32f746ff46a788496cfbd598e, type: 3}
